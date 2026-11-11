@@ -1,4 +1,4 @@
-![Deploy](https://github.com/fO-r-Ze/HW_Netology_JavaScript_DOM_2/actions/workflows/deploy.yml/badge.svg)
+![Deploy](https://github.com/fO-r-Ze/HW_Netology_JavaScript_DOM_2/actions/workflows/deploy-goblin.yml/badge.svg)
 [GitHub Pages](https://fO-r-Ze.github.io/HW_Netology_JavaScript_DOM_2/)
 
 
