@@ -1,6 +1,7 @@
 ![Deploy](https://github.com/fO-r-Ze/HW_Netology_JavaScript_DOM_2/actions/workflows/deploy.yml/badge.svg)
 [GitHub Pages](https://fO-r-Ze.github.io/HW_Netology_JavaScript_DOM_2/)
 
+
 # Домашнее задание к занятию "2. DOM"
 
 Правила сдачи задания:
